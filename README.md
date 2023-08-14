@@ -11,7 +11,7 @@ Then you need to install the dependencies
 $ cd GuessNumber 
 $ npm install
 ```
-Open your emulator app for Android or IOS
+Open your emulator for Android or IOS
 ```
 $ npm start
 ```
