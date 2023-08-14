@@ -1,6 +1,6 @@
 # Gues Number
 
-This is my first Android APP made using React Native as part of the course I'm enrolled in
+This is my first Android/IOS APP made using React Native as part of the course I'm enrolled in
 
 ## To download the app
 ```
