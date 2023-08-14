@@ -4,7 +4,7 @@ This is my first Android APP made using React Native as part of the course I'm e
 
 ## To download the app
 ```
-$ git clone ...
+$ git clone https://github.com/luizfernandorg/GuessNumber.git
 ```
 Then you need to install the dependencies
 ```
