@@ -15,3 +15,15 @@ Open your emulator for Android or IOS
 ```
 $ npm start
 ```
+
+or
+
+```
+$ npm android
+```
+
+or
+
+```
+$ npm ios
+```
