@@ -1,4 +1,4 @@
-# Gues Number
+# Guess Number
 
 This is my first Android/IOS APP made using React Native as part of the course I'm enrolled in
 
